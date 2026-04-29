@@ -118,3 +118,24 @@ It covers:
 ```python
 import joblib
 model = joblib.load("bank_churn_model.pkl")
+## 🔮 Future Improvements
+- Implement advanced models like XGBoost, LightGBM, and CatBoost for better performance  
+- Perform feature selection using techniques like Recursive Feature Elimination (RFE)  
+- Apply cross-validation strategies like Stratified K-Fold for more robust evaluation  
+- Tune decision threshold based on business requirements (precision vs recall trade-off)  
+- Add model explainability using SHAP or LIME  
+- Build a real-time prediction API using Flask or FastAPI  
+- Develop an interactive dashboard using Streamlit for user-friendly predictions  
+- Deploy the model on cloud platforms (AWS / Azure / GCP)  
+- Automate the ML pipeline using tools like MLflow or Airflow  
+- Monitor model performance and retrain periodically with new data  
+
+---
+
+## 👩‍💻 Author
+**Sudarshini**  
+B.Tech Artificial Intelligence and Data Science  
+Kumaraguru College of Technology  
+
+📌 Interests: Machine Learning, Computer Vision, AI for Robotics  
+📌 Tools: Python, Scikit-learn, Pandas, NumPy, OpenCV  
